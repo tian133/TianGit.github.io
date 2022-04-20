@@ -1,0 +1,26 @@
+[
+    {
+		"name": "PHL01",
+		"status":"release",
+		"color":"#ff0000",
+		"position":"absolute",
+		"left":"100px",
+		"top":"100px"
+	},
+	{
+		"name": "PHL02",
+		"status":"setup",
+		"color":"#ffff00",
+		"position":"absolute",
+		"left":"300px",
+		"top":"100px"
+	},
+	{
+		"name": "PHL03",
+		"status":"run",
+		"color":"#00ff00",
+		"position":"absolute",
+		"left":"100px",
+		"top":"300px"
+	}
+]
